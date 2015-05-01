@@ -1,0 +1,5 @@
+---
+security_group: default
+coreos_image_id: 2f82af25-e4cf-4c65-a52f-c13ad0ea475a 
+floating_ip_pool: nova
+keypair: tco-gold
